@@ -1,1 +1,2 @@
-# Landing-Page
+# Responsive website landing page
+Stacks:- HTML & CSS
